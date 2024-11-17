@@ -1,6 +1,6 @@
 - 👋 Merhaba,ben Gülsu Küçük.Teknik bir liseden Web Tasarım ve Programlama alanınından mezun oldum.Şu anda Mersin Üniversitesi Bilişim Sistemleri ve Teknolojileri bölümü 2.sınıf öğrencisiyim.
 - 👀 Front-end ve web tasarım alanlarında kendimi geliştirmekteyim.Yeni teknolojileri yakından takip ediyorum.
-- 🌱 Python, C, Dart ve flutter öğreniyorum.
+- 🌱 Python, C, Dart ve Flutter öğreniyorum.MEÜ Siber Güvenlik Topluluğu ve Proje Geliştirme Topluluğunda aktif rol oynuyorum.
   
 
 <!---
